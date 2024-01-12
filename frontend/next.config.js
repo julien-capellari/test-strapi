@@ -11,7 +11,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'images.pexels.com',
+        hostname: 'tasteful-cabbage-5ce3a64417.media.strapiapp.com',
       }
     ],
   },
